@@ -5,6 +5,8 @@ from os import getenv
 from aiogram import Bot, Dispatcher, html
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
+
+# LOL
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 from dotenv import load_dotenv
